@@ -34,6 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # user accounes
 gem 'devise', '~> 3.5.1'
+gem 'devise_token_auth'
 
 # social connections
 gem 'omniauth'
